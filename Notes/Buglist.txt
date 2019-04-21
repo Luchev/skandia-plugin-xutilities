@@ -1,0 +1,55 @@
+﻿------------------------------------------
+Planned features
+------------------------------------------
+[TODO]				Timers!!!
+[TODO]				Manage the Notification.cs Thread
+[TODO]				Custom Notification Types - String only/OK-Cancel/Yes-No
+[TODO]				NotificationManager to display notifications in order without overlapping/skipping (Probably using a List<Notification> as a buffer for storing notifications to display)
+[TODO]				Tools -> Chat logs
+[TODO]				Speed Hack
+[TODO]				Zoom  Hack
+[TODO]				Seller
+[TODO]				Add comments
+[TODO]				Manage logs properly
+
+[Plugin]	Advanced inventory manager
+[Plugin]	Dungeon resets
+[Plugin]	Dungeon helper - target bosses
+[Plugin]	Auto Eidolon
+[Idea]		Extract images of items/maps
+------------------------------------------
+Bugs
+------------------------------------------
+Profiles not loading properly
+The UI can't be minimized properly - Cursor locating
+
+
+// JS for map coordinates
+        }), $(document).on("click", "[data-open]", function() {
+            var e = $("#" + $(this).data("open")),
+                t = e.find(".map"),
+                n = $(this).data("mapimage");
+            t.css("backgroundImage", "url(" + gon.global.asset_host + "/images/maps/" + n + ".jpg)");
+            var i = (t.outerHeight(!0), t.outerWidth(!0), $(this).data("x-coord")),
+                o = $(this).data("y-coord"),
+                s = $(this).data("map-x-coord"),
+                r = $(this).data("map-y-coord");
+            t.find(".coords").empty(), jQuery.each(i, function(e, n) {
+                var i = (n / s * 100).toFixed(1),
+                    a = (o[e] / r * 100).toFixed(1);
+                t.find(".coords").append($('<div class="pin" style="left:' + i + "%; bottom:" + a + '%"><span></span></div>'))
+            })
+
+element.style {
+    background-image: url(http://cdn.aurakingdom-db.com/images/maps/S450S.jpg);
+}
+application-3033718….css:4
+#showMap .map {
+    background: transparent no-repeat center center;
+    background-size: 200% auto;
+    max-height: 512px;
+    max-width: 512px;
+    height: auto;
+    position: relative;
+    width: auto;
+}

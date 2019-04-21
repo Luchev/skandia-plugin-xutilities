@@ -1,0 +1,56 @@
+﻿V1.2.0
+	Rebuilt the core
+	Removed the timers
+	Implemented the rest of the Skandia core methods
+	Recoded the Plugins tab according with the latest skandia update
+	Made the UI buttons clickable without having to focus the UI first
+
+V1.1.0
+	Implemented basic Timers
+
+V1.0.10
+	Made the complete GameEvent class to be used in the timers
+	Timers.xml is now serialized form of List<GameEvent> of all the events in the game!!!
+	The code for converting from the JSON to GameEvent objects is in Old code/Old.cs for future use
+
+V1.0.9
+	Converted the timers.json to and xml
+	Added a hardcoded dictionary for plugins which inside name doesn't match their <name>.dll in Settings.cs
+
+V1.0.8
+	Fixing stability and Cross-Thread functions
+	
+V1.0.7
+	Fixing stabilitsy issues
+	Improving the logs
+	Compacting code
+	Added Character label on the MainUI indicating what is currently in game
+
+V1.0.6
+	Added Notification.cs (no functionality yet)
+	Added NotifyIcon (aka TrayIcon) (no functionality yet)
+	Changes to the MainUI starting method
+	Changes to OnStop
+
+V1.0.5
+	SettingsUI returns! (No functionality yet)
+
+V1.0.4
+	Removed SettingsUI
+
+V1.0.3
+	Ready for Alpha
+	Plugin is stable
+	Added Skandia->Seller
+	Added Plugins Start/Stop
+	Changed MainUI
+
+V1.0.2
+	UI looks changed
+
+V1.0.1
+	Improving stability
+
+V1.0.0
+	Established the base
+	Built the MainUI and SettingsUI

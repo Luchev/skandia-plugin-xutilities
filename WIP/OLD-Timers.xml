@@ -1,0 +1,1158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <root>
+    <name>Fish Kings</name>
+    <events>
+      <eventName>All Fish Kings</eventName>
+      <eventUrl />
+      <baitName>Various Baits</baitName>
+      <baitUrl />
+      <coords />
+      <type>5</type>
+      <startDays>0</startDays>
+      <startTimes>46800</startTimes>
+      <startTimes>61200</startTimes>
+      <endTimes>48600</endTimes>
+      <endTimes>63000</endTimes>
+      <map>sunhunters-vale</map>
+    </events>
+    <events>
+      <eventName>Eternal Wisdom Elder</eventName>
+      <eventUrl>55041-eternal-wisdom-elder</eventUrl>
+      <baitName>Shining Crystal Shell</baitName>
+      <baitUrl>13680-shining-crystal-shell</baitUrl>
+      <coords>(X: 609, Y: 666)</coords>
+      <type>5</type>
+      <startDays>1</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>61200</startTimes>
+      <endTimes>5400</endTimes>
+      <endTimes>34200</endTimes>
+      <endTimes>63000</endTimes>
+      <map>vultures-vale</map>
+    </events>
+    <events>
+      <eventName>Khaz Walid</eventName>
+      <eventUrl>55121-khaz-walid</eventUrl>
+      <baitName>Finest Fish Head</baitName>
+      <baitUrl>15499-finest-fish-head</baitUrl>
+      <coords>(X: 785, Y: 403)</coords>
+      <type>5</type>
+      <startDays>1</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>61200</startTimes>
+      <endTimes>5400</endTimes>
+      <endTimes>34200</endTimes>
+      <endTimes>63000</endTimes>
+      <map>desolate-valley</map>
+    </events>
+    <events>
+      <eventName>Fragrant Monstrosity</eventName>
+      <eventUrl>55106-fragrant-monstrosity</eventUrl>
+      <baitName>Rainbow Cricket</baitName>
+      <baitUrl>14450-rainbow-cricket</baitUrl>
+      <coords>(X: 83, Y: 423)</coords>
+      <type>5</type>
+      <startDays>1</startDays>
+      <startTimes>18000</startTimes>
+      <startTimes>46800</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>19800</endTimes>
+      <endTimes>48600</endTimes>
+      <endTimes>77400</endTimes>
+      <map>rainmist-reach</map>
+    </events>
+    <events>
+      <eventName>Lake Lurker</eventName>
+      <eventUrl>55107-lake-lurker</eventUrl>
+      <baitName>Freshly Grilled Sirloin</baitName>
+      <baitUrl>14454-freshly-grilled-sirloin</baitUrl>
+      <coords>(X: 195, Y: 206)</coords>
+      <type>5</type>
+      <startDays>1</startDays>
+      <startTimes>18000</startTimes>
+      <startTimes>46800</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>19800</endTimes>
+      <endTimes>48600</endTimes>
+      <endTimes>77400</endTimes>
+      <map>emerald-marsh</map>
+    </events>
+    <events>
+      <eventName>Ocean Tyrant</eventName>
+      <eventUrl>55012-ocean-tyrant</eventUrl>
+      <baitName>Prince Saury</baitName>
+      <baitUrl>13024-prince-saury</baitUrl>
+      <coords>(X: 825, Y: 343)</coords>
+      <type>5</type>
+      <startDays>2</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>61200</startTimes>
+      <endTimes>5400</endTimes>
+      <endTimes>34200</endTimes>
+      <endTimes>63000</endTimes>
+      <map>port-skandia</map>
+    </events>
+    <events>
+      <eventName>Submerged Starlight</eventName>
+      <eventUrl>55119-submerged-starlight</eventUrl>
+      <baitName>Megasquid</baitName>
+      <baitUrl>15491-megasquid</baitUrl>
+      <coords>(X: 630, Y: 645)</coords>
+      <type>5</type>
+      <startDays>2</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>61200</startTimes>
+      <endTimes>5400</endTimes>
+      <endTimes>34200</endTimes>
+      <endTimes>63000</endTimes>
+      <map>candetonn-hill</map>
+    </events>
+    <events>
+      <eventName>Hot-Tempered Overlord</eventName>
+      <eventUrl>55017-hot-tempered-overlord</eventUrl>
+      <baitName>Wriggling River Snail</baitName>
+      <baitUrl>13029-wriggling-river-snail</baitUrl>
+      <coords>(X: 158, Y: 531)</coords>
+      <type>5</type>
+      <startDays>2</startDays>
+      <startTimes>18000</startTimes>
+      <startTimes>46800</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>19800</endTimes>
+      <endTimes>48600</endTimes>
+      <endTimes>77400</endTimes>
+      <map>triatio-highlands</map>
+    </events>
+    <events>
+      <eventName>Shadow of the Deep</eventName>
+      <eventUrl>55013-shadow-of-the-deep</eventUrl>
+      <baitName>Small Fluorescent Squid</baitName>
+      <baitUrl>13025-small-fluorescent-squid</baitUrl>
+      <coords>(X: 773, Y: 136)</coords>
+      <type>5</type>
+      <startDays>3</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>61200</startTimes>
+      <endTimes>5400</endTimes>
+      <endTimes>34200</endTimes>
+      <endTimes>63000</endTimes>
+      <map>helonia-coast</map>
+    </events>
+    <events>
+      <eventName>Defender of the Marsh</eventName>
+      <eventUrl>55018-defender-of-the-marsh</eventUrl>
+      <baitName>Fresh Marsh Shrimp</baitName>
+      <baitUrl>13030-fresh-marsh-shrimp</baitUrl>
+      <coords>(X: 765, Y: 500)</coords>
+      <type>5</type>
+      <startDays>3</startDays>
+      <startTimes>18000</startTimes>
+      <startTimes>46800</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>19800</endTimes>
+      <endTimes>48600</endTimes>
+      <endTimes>77400</endTimes>
+      <map>candeo-marsh</map>
+    </events>
+    <events>
+      <eventName>Unidentified Foreign Creature</eventName>
+      <eventUrl>55108-unidentified-foreign-creature</eventUrl>
+      <baitName>Coral Red Fish</baitName>
+      <baitUrl>14458-coral-red-fish</baitUrl>
+      <coords>(X: 112, Y: 582)</coords>
+      <type>5</type>
+      <startDays>3</startDays>
+      <startTimes>18000</startTimes>
+      <startTimes>46800</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>19800</endTimes>
+      <endTimes>48600</endTimes>
+      <endTimes>77400</endTimes>
+      <map>starstruck-plateau</map>
+    </events>
+    <events>
+      <eventName>Golden Blossom</eventName>
+      <eventUrl>55014-golden-blossom</eventUrl>
+      <baitName>Golden Petal</baitName>
+      <baitUrl>13028-golden-petal</baitUrl>
+      <coords>(X: 461, Y: 556)</coords>
+      <type>5</type>
+      <startDays>4</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>61200</startTimes>
+      <endTimes>5400</endTimes>
+      <endTimes>34200</endTimes>
+      <endTimes>63000</endTimes>
+      <map>crescent-hill</map>
+    </events>
+    <events>
+      <eventName>Shadow Lancer</eventName>
+      <eventUrl>55118-shadow-lancer</eventUrl>
+      <baitName>Live Emperor Fish</baitName>
+      <baitUrl>15487-live-emperor-fish</baitUrl>
+      <coords>(X: 756, Y: 333)</coords>
+      <type>5</type>
+      <startDays>4</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>61200</startTimes>
+      <endTimes>5400</endTimes>
+      <endTimes>34200</endTimes>
+      <endTimes>63000</endTimes>
+      <map>port-morton</map>
+    </events>
+    <events>
+      <eventName>Rainbow Caller</eventName>
+      <eventUrl>55019-rainbow-caller</eventUrl>
+      <baitName>Giant Black Mayfly</baitName>
+      <baitUrl>13031-giant-black-mayfly</baitUrl>
+      <coords>(X: 467, Y: 134)</coords>
+      <type>5</type>
+      <startDays>4</startDays>
+      <startTimes>18000</startTimes>
+      <startTimes>46800</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>19800</endTimes>
+      <endTimes>48600</endTimes>
+      <endTimes>77400</endTimes>
+      <map>ventos-prairie</map>
+    </events>
+    <events>
+      <eventName>Eternal Epicurean</eventName>
+      <eventUrl>55185-eternal-epicurean</eventUrl>
+      <baitName>Aqualord Redshade</baitName>
+      <baitUrl>17286-aqualord-redshade</baitUrl>
+      <coords>(X: 177, Y: 764)</coords>
+      <type>5</type>
+      <startDays>4</startDays>
+      <startTimes>18000</startTimes>
+      <startTimes>46800</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>19800</endTimes>
+      <endTimes>48600</endTimes>
+      <endTimes>77400</endTimes>
+      <map>tanglevine-cascades</map>
+    </events>
+    <events>
+      <eventName>Ancient Witness</eventName>
+      <eventUrl>55015-ancient-witness</eventUrl>
+      <baitName>Magic Fig</baitName>
+      <baitUrl>13027-magic-fig</baitUrl>
+      <coords>(X: 152, Y: 705)</coords>
+      <type>5</type>
+      <startDays>5</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>61200</startTimes>
+      <endTimes>5400</endTimes>
+      <endTimes>34200</endTimes>
+      <endTimes>63000</endTimes>
+      <map>cactakara-forest</map>
+    </events>
+    <events>
+      <eventName>Silent Hunter</eventName>
+      <eventUrl>55186-silent-hunter</eventUrl>
+      <baitName>Tyrant Nautilus</baitName>
+      <baitUrl>17290-tyrant-nautilus</baitUrl>
+      <coords>(X: 640, Y: 221)</coords>
+      <type>5</type>
+      <startDays>5</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>61200</startTimes>
+      <endTimes>5400</endTimes>
+      <endTimes>34200</endTimes>
+      <endTimes>63000</endTimes>
+      <map>sunhunters-vale</map>
+    </events>
+    <events>
+      <eventName>Deep Waterfall Ghost</eventName>
+      <eventUrl>55020-deep-waterfall-ghost</eventUrl>
+      <baitName>Green Leech</baitName>
+      <baitUrl>13032-green-leech</baitUrl>
+      <coords>(X: 129, Y: 651)</coords>
+      <type>5</type>
+      <startDays>5</startDays>
+      <startTimes>18000</startTimes>
+      <startTimes>46800</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>19800</endTimes>
+      <endTimes>48600</endTimes>
+      <endTimes>77400</endTimes>
+      <map>oblitus-wood</map>
+    </events>
+    <events>
+      <eventName>Eternal Glacier</eventName>
+      <eventUrl>55109-eternal-glacier</eventUrl>
+      <baitName>Princess Hardscale Fish</baitName>
+      <baitUrl>14462-princess-hardscale-fish</baitUrl>
+      <coords>(X: 328, Y: 560)</coords>
+      <type>5</type>
+      <startDays>5</startDays>
+      <startTimes>18000</startTimes>
+      <startTimes>46800</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>19800</endTimes>
+      <endTimes>48600</endTimes>
+      <endTimes>77400</endTimes>
+      <map>silent-ice-field</map>
+    </events>
+    <events>
+      <eventName>Dark Crystal</eventName>
+      <eventUrl>55016-dark-crystal</eventUrl>
+      <baitName>Forked-Tail Loach</baitName>
+      <baitUrl>13026-forked-tail-loach</baitUrl>
+      <coords>(X: 740, Y: 595)</coords>
+      <type>5</type>
+      <startDays>6</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>61200</startTimes>
+      <endTimes>5400</endTimes>
+      <endTimes>34200</endTimes>
+      <endTimes>63000</endTimes>
+      <map>demarech-mines</map>
+    </events>
+    <events>
+      <eventName>Crimson Aquadevil</eventName>
+      <eventUrl>55120-crimson-aquadevil</eventUrl>
+      <baitName>Silvercrown Empress Fish</baitName>
+      <baitUrl>15495-silvercrown-empress-fish</baitUrl>
+      <coords>(X: 124, Y: 175)</coords>
+      <type>5</type>
+      <startDays>6</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>61200</startTimes>
+      <endTimes>5400</endTimes>
+      <endTimes>34200</endTimes>
+      <endTimes>63000</endTimes>
+      <map>viridian-steppe</map>
+    </events>
+    <events>
+      <eventName>Sand-Spitting Hermit</eventName>
+      <eventUrl>55021-sand-spitting-hermit</eventUrl>
+      <baitName>Lively Grass Carp</baitName>
+      <baitUrl>13033-lively-grass-carp</baitUrl>
+      <coords>(X: 136, Y: 790)</coords>
+      <type>5</type>
+      <startDays>6</startDays>
+      <startTimes>18000</startTimes>
+      <startTimes>46800</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>19800</endTimes>
+      <endTimes>48600</endTimes>
+      <endTimes>77400</endTimes>
+      <map>star-sand-desert</map>
+    </events>
+  </root>
+  <root>
+    <name>World Bosses</name>
+    <events>
+      <eventName>&amp;lt;Hermit&amp;gt; Mordecai</eventName>
+      <eventUrl>41381-hermit-mordecai</eventUrl>
+      <zoneName>Crescent Hill</zoneName>
+      <zoneUrl>4-crescent-hill</zoneUrl>
+      <coords>(X: 522, Y: 793)</coords>
+      <type>4</type>
+      <startDays>0</startDays>
+      <startTimes>0</startTimes>
+      <startTimes>14400</startTimes>
+      <startTimes>28800</startTimes>
+      <startTimes>43200</startTimes>
+      <startTimes>57600</startTimes>
+      <startTimes>72000</startTimes>
+      <endTimes>600</endTimes>
+      <endTimes>15000</endTimes>
+      <endTimes>29400</endTimes>
+      <endTimes>43800</endTimes>
+      <endTimes>58200</endTimes>
+      <endTimes>72600</endTimes>
+      <map>crescent-hill</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Pirate Leader&amp;gt; Mac</eventName>
+      <eventUrl>41379-pirate-leader-mac</eventUrl>
+      <zoneName>Helonia Coast</zoneName>
+      <zoneUrl>3-helonia-coast</zoneUrl>
+      <coords>(X: 461, Y: 648)</coords>
+      <type>4</type>
+      <startDays>4</startDays>
+      <startTimes>0</startTimes>
+      <startTimes>14400</startTimes>
+      <startTimes>28800</startTimes>
+      <startTimes>43200</startTimes>
+      <startTimes>57600</startTimes>
+      <startTimes>72000</startTimes>
+      <endTimes>600</endTimes>
+      <endTimes>15000</endTimes>
+      <endTimes>29400</endTimes>
+      <endTimes>43800</endTimes>
+      <endTimes>58200</endTimes>
+      <endTimes>72600</endTimes>
+      <map>helonia-coast</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Jungle Panther&amp;gt; Banksy</eventName>
+      <eventUrl>41257-jungle-panther-banksy</eventUrl>
+      <zoneName>Candeo Marsh</zoneName>
+      <zoneUrl>8-candeo-marsh</zoneUrl>
+      <coords>(X: 674, Y: 628)</coords>
+      <type>4</type>
+      <startDays>5</startDays>
+      <startTimes>0</startTimes>
+      <startTimes>14400</startTimes>
+      <startTimes>28800</startTimes>
+      <startTimes>43200</startTimes>
+      <startTimes>57600</startTimes>
+      <startTimes>72000</startTimes>
+      <endTimes>600</endTimes>
+      <endTimes>15000</endTimes>
+      <endTimes>29400</endTimes>
+      <endTimes>43800</endTimes>
+      <endTimes>58200</endTimes>
+      <endTimes>72600</endTimes>
+      <map>candeo-marsh</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Secluded Hunter&amp;gt; Daphne</eventName>
+      <eventUrl>41380-secluded-hunter-daphne</eventUrl>
+      <zoneName>Triatio Highlands</zoneName>
+      <zoneUrl>7-triatio-highlands</zoneUrl>
+      <coords>(X: 466, Y: 308)</coords>
+      <type>4</type>
+      <startDays>6</startDays>
+      <startTimes>0</startTimes>
+      <startTimes>14400</startTimes>
+      <startTimes>28800</startTimes>
+      <startTimes>43200</startTimes>
+      <startTimes>57600</startTimes>
+      <startTimes>72000</startTimes>
+      <endTimes>600</endTimes>
+      <endTimes>15000</endTimes>
+      <endTimes>29400</endTimes>
+      <endTimes>43800</endTimes>
+      <endTimes>58200</endTimes>
+      <endTimes>72600</endTimes>
+      <map>triatio-highlands</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Colossal Cult Leader&amp;gt; Abenthy</eventName>
+      <eventUrl>44976-colossal-cult-leader-abenthy</eventUrl>
+      <zoneName>Desolate Valley</zoneName>
+      <zoneUrl>24-desolate-valley</zoneUrl>
+      <coords>(X: 148, Y: 589)</coords>
+      <type>4</type>
+      <startDays>0</startDays>
+      <startTimes>7200</startTimes>
+      <startTimes>21600</startTimes>
+      <startTimes>36000</startTimes>
+      <startTimes>50400</startTimes>
+      <startTimes>64800</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>7800</endTimes>
+      <endTimes>22200</endTimes>
+      <endTimes>36600</endTimes>
+      <endTimes>51000</endTimes>
+      <endTimes>65400</endTimes>
+      <endTimes>79800</endTimes>
+      <map>desolate-valley</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Enlarged Lavalord&amp;gt; Elbiolo</eventName>
+      <eventUrl>44973-enlarged-lavalord-elbiolo</eventUrl>
+      <zoneName>Port Morton</zoneName>
+      <zoneUrl>21-port-morton</zoneUrl>
+      <coords>(X: 652, Y: 138)</coords>
+      <type>4</type>
+      <startDays>3</startDays>
+      <startTimes>7200</startTimes>
+      <startTimes>21600</startTimes>
+      <startTimes>36000</startTimes>
+      <startTimes>50400</startTimes>
+      <startTimes>64800</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>7800</endTimes>
+      <endTimes>22200</endTimes>
+      <endTimes>36600</endTimes>
+      <endTimes>51000</endTimes>
+      <endTimes>65400</endTimes>
+      <endTimes>79800</endTimes>
+      <map>port-morton</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Dominating Duskfall Dancer&amp;gt; Mechium</eventName>
+      <eventUrl>44974-dominating-duskfall-dancer-mechium</eventUrl>
+      <zoneName>Candetonn Hill</zoneName>
+      <zoneUrl>22-candetonn-hill</zoneUrl>
+      <coords>(X: 544, Y: 657)</coords>
+      <type>4</type>
+      <startDays>5</startDays>
+      <startTimes>7200</startTimes>
+      <startTimes>21600</startTimes>
+      <startTimes>36000</startTimes>
+      <startTimes>50400</startTimes>
+      <startTimes>64800</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>7800</endTimes>
+      <endTimes>22200</endTimes>
+      <endTimes>36600</endTimes>
+      <endTimes>51000</endTimes>
+      <endTimes>65400</endTimes>
+      <endTimes>79800</endTimes>
+      <map>candetonn-hill</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Enormous Eclipse Rabbit King&amp;gt; Kalishia</eventName>
+      <eventUrl>44975-enormous-eclipse-rabbit-king-kalishia</eventUrl>
+      <zoneName>Viridian Steppe</zoneName>
+      <zoneUrl>23-viridian-steppe</zoneUrl>
+      <coords>(X: 230, Y: 301)</coords>
+      <type>4</type>
+      <startDays>6</startDays>
+      <startTimes>7200</startTimes>
+      <startTimes>21600</startTimes>
+      <startTimes>36000</startTimes>
+      <startTimes>50400</startTimes>
+      <startTimes>64800</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>7800</endTimes>
+      <endTimes>22200</endTimes>
+      <endTimes>36600</endTimes>
+      <endTimes>51000</endTimes>
+      <endTimes>65400</endTimes>
+      <endTimes>79800</endTimes>
+      <map>viridian-steppe</map>
+    </events>
+  </root>
+  <root>
+    <name>Guild Bosses</name>
+    <events>
+      <eventName>&amp;lt;Stormbringer&amp;gt; Vayu</eventName>
+      <eventUrl>61012-stormbringer-vayu</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>0</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>54000</startTimes>
+      <startTimes>72000</startTimes>
+      <endTimes>4200</endTimes>
+      <endTimes>54600</endTimes>
+      <endTimes>72600</endTimes>
+      <map>guild-hall</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Duke of Darkness&amp;gt; Eligos</eventName>
+      <eventUrl>61008-duke-of-darkness-eligos</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>0</startDays>
+      <startTimes>43200</startTimes>
+      <startTimes>61200</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>43800</endTimes>
+      <endTimes>61800</endTimes>
+      <endTimes>79800</endTimes>
+      <map>guild-hall</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Nine Tailed Vixen&amp;gt; Kotonoha</eventName>
+      <eventUrl>61016-nine-tailed-vixen-kotonoha</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>1</startDays>
+      <startTimes>43200</startTimes>
+      <startTimes>61200</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>43800</endTimes>
+      <endTimes>61800</endTimes>
+      <endTimes>79800</endTimes>
+      <map>guild-hall</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Miasmic Serpent&amp;gt; Quelkulan</eventName>
+      <eventUrl>61013-miasmic-serpent-quelkulan</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>2</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>54000</startTimes>
+      <startTimes>72000</startTimes>
+      <endTimes>4200</endTimes>
+      <endTimes>54600</endTimes>
+      <endTimes>72600</endTimes>
+      <map>guild-hall</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Knight of the Sun&amp;gt; Aelius</eventName>
+      <eventUrl>61007-knight-of-the-sun-aelius</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>2</startDays>
+      <startTimes>43200</startTimes>
+      <startTimes>61200</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>43800</endTimes>
+      <endTimes>61800</endTimes>
+      <endTimes>79800</endTimes>
+      <map>guild-hall</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Empress of Torment&amp;gt; Bel-Chandra</eventName>
+      <eventUrl>61010-empress-of-torment-bel-chandra</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>3</startDays>
+      <startTimes>43200</startTimes>
+      <startTimes>61200</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>43800</endTimes>
+      <endTimes>61800</endTimes>
+      <endTimes>79800</endTimes>
+      <map>guild-hall</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Emerald Tempest&amp;gt; Yarnaros</eventName>
+      <eventUrl>61014-emerald-tempest-yarnaros</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>4</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>54000</startTimes>
+      <startTimes>72000</startTimes>
+      <endTimes>4200</endTimes>
+      <endTimes>54600</endTimes>
+      <endTimes>72600</endTimes>
+      <map>guild-hall</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Iron Titan&amp;gt; Gigas</eventName>
+      <eventUrl>61006-iron-titan-gigas</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>4</startDays>
+      <startTimes>43200</startTimes>
+      <startTimes>61200</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>43800</endTimes>
+      <endTimes>61800</endTimes>
+      <endTimes>79800</endTimes>
+      <map>guild-hall</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Trampling Thunder&amp;gt; Bahadur</eventName>
+      <eventUrl>61015-trampling-thunder-bahadur</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>5</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>54000</startTimes>
+      <startTimes>72000</startTimes>
+      <endTimes>4200</endTimes>
+      <endTimes>54600</endTimes>
+      <endTimes>72600</endTimes>
+      <map>guild-hall</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Champion of the Slain&amp;gt; Sigrun</eventName>
+      <eventUrl>61009-champion-of-the-slain-sigrun</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>5</startDays>
+      <startTimes>43200</startTimes>
+      <startTimes>61200</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>43800</endTimes>
+      <endTimes>61800</endTimes>
+      <endTimes>79800</endTimes>
+      <map>guild-hall</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Feline Emperor&amp;gt; Tigerius Caesar</eventName>
+      <eventUrl>61017-feline-emperor-tigerius-caesar</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>6</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>54000</startTimes>
+      <startTimes>72000</startTimes>
+      <endTimes>4200</endTimes>
+      <endTimes>54600</endTimes>
+      <endTimes>72600</endTimes>
+      <map>guild-hall</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Heavenly Defender&amp;gt; Uzuriel</eventName>
+      <eventUrl>61011-heavenly-defender-uzuriel</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>6</startDays>
+      <startTimes>43200</startTimes>
+      <startTimes>61200</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>43800</endTimes>
+      <endTimes>61800</endTimes>
+      <endTimes>79800</endTimes>
+      <map>guild-hall</map>
+    </events>
+  </root>
+  <root>
+    <name>Battlefields</name>
+    <events>
+      <eventName>The Glorious Frost Crown</eventName>
+      <type>2</type>
+      <startDays>0</startDays>
+      <startDays>1</startDays>
+      <startDays>2</startDays>
+      <startDays>3</startDays>
+      <startDays>4</startDays>
+      <startDays>5</startDays>
+      <startDays>6</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>42000</startTimes>
+      <endTimes>5400</endTimes>
+      <endTimes>43800</endTimes>
+      <map>the-glorius-frost-crown</map>
+    </events>
+    <events>
+      <eventName>Tanuki Turmoil</eventName>
+      <type>2</type>
+      <startDays>0</startDays>
+      <startDays>1</startDays>
+      <startDays>2</startDays>
+      <startDays>3</startDays>
+      <startDays>4</startDays>
+      <startDays>5</startDays>
+      <startDays>6</startDays>
+      <startTimes>10800</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>46800</startTimes>
+      <startTimes>77400</startTimes>
+      <endTimes>12600</endTimes>
+      <endTimes>34200</endTimes>
+      <endTimes>48600</endTimes>
+      <endTimes>79200</endTimes>
+      <map>tanuki-turmoil</map>
+    </events>
+    <events>
+      <eventName>Excelsior Arena (5 v. 5)</eventName>
+      <type>2</type>
+      <startDays>0</startDays>
+      <startDays>1</startDays>
+      <startDays>2</startDays>
+      <startDays>3</startDays>
+      <startDays>4</startDays>
+      <startDays>5</startDays>
+      <startDays>6</startDays>
+      <startTimes>18000</startTimes>
+      <startTimes>25200</startTimes>
+      <startTimes>37200</startTimes>
+      <startTimes>66000</startTimes>
+      <startTimes>84000</startTimes>
+      <endTimes>19800</endTimes>
+      <endTimes>27000</endTimes>
+      <endTimes>39000</endTimes>
+      <endTimes>67800</endTimes>
+      <endTimes>85800</endTimes>
+      <map>excelsior-arena-5-v-5</map>
+    </events>
+    <events>
+      <eventName>Excelsior Arena (5 v. 5)</eventName>
+      <type>2</type>
+      <startDays>1</startDays>
+      <startDays>2</startDays>
+      <startDays>3</startDays>
+      <startTimes>53400</startTimes>
+      <endTimes>55200</endTimes>
+      <map>excelsior-arena-5-v-5</map>
+    </events>
+    <events>
+      <eventName>Excelsior Arena (5 v. 5)</eventName>
+      <type>2</type>
+      <startDays>0</startDays>
+      <startDays>5</startDays>
+      <startDays>6</startDays>
+      <startTimes>55200</startTimes>
+      <endTimes>57000</endTimes>
+      <map>excelsior-arena-5-v-5</map>
+    </events>
+    <events>
+      <eventName>Excelsior Arena (5 v. 5)</eventName>
+      <type>2</type>
+      <startDays>0</startDays>
+      <startDays>4</startDays>
+      <startDays>5</startDays>
+      <startDays>6</startDays>
+      <startTimes>73200</startTimes>
+      <endTimes>75000</endTimes>
+      <map>excelsior-arena-5-v-5</map>
+    </events>
+    <events>
+      <eventName>Valley of Glorious Battle</eventName>
+      <type>2</type>
+      <startDays>0</startDays>
+      <startDays>1</startDays>
+      <startDays>2</startDays>
+      <startDays>3</startDays>
+      <startDays>4</startDays>
+      <startDays>5</startDays>
+      <startDays>6</startDays>
+      <startTimes>63000</startTimes>
+      <endTimes>63600</endTimes>
+      <map>valley-of-glorious-battle</map>
+    </events>
+    <events>
+      <eventName>Centurion Battlefield</eventName>
+      <type>2</type>
+      <startDays>0</startDays>
+      <startDays>1</startDays>
+      <startDays>2</startDays>
+      <startDays>3</startDays>
+      <startDays>4</startDays>
+      <startDays>5</startDays>
+      <startDays>6</startDays>
+      <startTimes>58800</startTimes>
+      <endTimes>60600</endTimes>
+      <map>centurion-battlefield</map>
+    </events>
+    <events>
+      <eventName>Centurion Battlefield</eventName>
+      <type>2</type>
+      <startDays>1</startDays>
+      <startDays>2</startDays>
+      <startDays>3</startDays>
+      <startTimes>73200</startTimes>
+      <endTimes>75000</endTimes>
+      <map>centurion-battlefield</map>
+    </events>
+  </root>
+  <root>
+    <name>Dungeon Resets</name>
+    <events>
+      <eventName>24 Hour Dungeon</eventName>
+      <type>3</type>
+      <startTimes>21600</startTimes>
+      <endTimes>21720</endTimes>
+      <map>24-hour-dungeon</map>
+      <tooltip>List of affected dungeons:hrDuelists' TemplebrGaia's Sanctuary (5 Players)brHoly Land of Gaia (Solo)brHall of PhilaebrGaia's Sanctuary - Trial (Party)brGaia's Sanctuary - Trial (Solo)brVault of Eternity</tooltip>
+    </events>
+    <events>
+      <eventName>8 Hour Dungeon</eventName>
+      <type>3</type>
+      <startTimes>21600</startTimes>
+      <startTimes>50400</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>21720</endTimes>
+      <endTimes>50520</endTimes>
+      <endTimes>79320</endTimes>
+      <map>8-hour-dungeon</map>
+      <tooltip>List of affected dungeons:hrInfernal AbyssbrWhirlpool AbyssbrAvarice Abyss</tooltip>
+    </events>
+    <events>
+      <eventName>6 Hour Dungeon</eventName>
+      <type>3</type>
+      <startTimes>0</startTimes>
+      <startTimes>21600</startTimes>
+      <startTimes>43200</startTimes>
+      <startTimes>64800</startTimes>
+      <endTimes>120</endTimes>
+      <endTimes>21720</endTimes>
+      <endTimes>43320</endTimes>
+      <endTimes>64920</endTimes>
+      <map>6-hour-dungeon</map>
+      <tooltip>List of affected dungeons:hrTemple of the Eidolons (Solo)brLament of The Thunder-Dragon KingbrLanding of the Sky Dragon KingbrSiege of the Aqua-Dragon QueenbrPyroclastic PurgatorybrTempestuous TemplebrThunder Temple of the Underworld BaronessbrFrozen Ruins of Zahr-Kazaal</tooltip>
+    </events>
+    <events>
+      <eventName>3 Hour Dungeon</eventName>
+      <type>3</type>
+      <startTimes>0</startTimes>
+      <startTimes>10800</startTimes>
+      <startTimes>21600</startTimes>
+      <startTimes>32400</startTimes>
+      <startTimes>43200</startTimes>
+      <startTimes>54000</startTimes>
+      <startTimes>64800</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>120</endTimes>
+      <endTimes>10920</endTimes>
+      <endTimes>21720</endTimes>
+      <endTimes>32520</endTimes>
+      <endTimes>43320</endTimes>
+      <endTimes>54120</endTimes>
+      <endTimes>64920</endTimes>
+      <endTimes>75720</endTimes>
+      <map>3-hour-dungeon</map>
+      <tooltip>List of affected dungeons:hrAll Dungeons (Solo Challenge)brOtherworld: Field (All)brOtherworld: Dungeon (Hell)</tooltip>
+    </events>
+    <events>
+      <eventName>2 Hour Dungeon</eventName>
+      <type>3</type>
+      <startTimes>0</startTimes>
+      <startTimes>7200</startTimes>
+      <startTimes>14400</startTimes>
+      <startTimes>21600</startTimes>
+      <startTimes>28800</startTimes>
+      <startTimes>36000</startTimes>
+      <startTimes>43200</startTimes>
+      <startTimes>50400</startTimes>
+      <startTimes>57600</startTimes>
+      <startTimes>64800</startTimes>
+      <startTimes>72000</startTimes>
+      <startTimes>79200</startTimes>
+      <endTimes>120</endTimes>
+      <endTimes>7320</endTimes>
+      <endTimes>14520</endTimes>
+      <endTimes>21720</endTimes>
+      <endTimes>28920</endTimes>
+      <endTimes>36120</endTimes>
+      <endTimes>43320</endTimes>
+      <endTimes>50520</endTimes>
+      <endTimes>57720</endTimes>
+      <endTimes>64920</endTimes>
+      <endTimes>72120</endTimes>
+      <endTimes>79320</endTimes>
+      <map>2-hour-dungeon</map>
+      <tooltip>List of affected dungeons:hrMain Dungeon (Solo/Party/Hell)brOtherworld: Dungeon (Solo/Party)</tooltip>
+    </events>
+  </root>
+  <root>
+    <name>Raids</name>
+    <events>
+      <eventName>Sky Tower Group 1-30</eventName>
+      <type>2</type>
+      <startDays>0</startDays>
+      <startDays>6</startDays>
+      <startTimes>36000</startTimes>
+      <endTimes>43200</endTimes>
+      <map>sky-tower</map>
+    </events>
+    <events>
+      <eventName>Sky Tower Group 31-60</eventName>
+      <type>2</type>
+      <startDays>0</startDays>
+      <startDays>6</startDays>
+      <startTimes>54000</startTimes>
+      <endTimes>61200</endTimes>
+      <map>sky-tower</map>
+    </events>
+    <events>
+      <eventName>Sky Tower Group 61-90</eventName>
+      <type>2</type>
+      <startDays>0</startDays>
+      <startDays>6</startDays>
+      <startTimes>72000</startTimes>
+      <endTimes>79200</endTimes>
+      <map>sky-tower</map>
+    </events>
+    <events>
+      <eventName>Sky Tower Elite Group 1-30</eventName>
+      <type>2</type>
+      <startDays>5</startDays>
+      <startTimes>36000</startTimes>
+      <endTimes>43200</endTimes>
+      <map>sky-tower-elite</map>
+    </events>
+    <events>
+      <eventName>Sky Tower Elite Group 31-60</eventName>
+      <type>2</type>
+      <startDays>5</startDays>
+      <startTimes>54000</startTimes>
+      <endTimes>61200</endTimes>
+      <map>sky-tower-elite</map>
+    </events>
+    <events>
+      <eventName>Sky Tower Elite Group 61-90</eventName>
+      <type>2</type>
+      <startDays>5</startDays>
+      <startTimes>72000</startTimes>
+      <endTimes>79200</endTimes>
+      <map>sky-tower-elite</map>
+    </events>
+    <events>
+      <eventName>Sky Realm Group 1-5</eventName>
+      <type>2</type>
+      <startDays>4</startDays>
+      <startTimes>36000</startTimes>
+      <endTimes>39000</endTimes>
+      <map>sky-realm</map>
+    </events>
+    <events>
+      <eventName>Sky Realm Group 6-10</eventName>
+      <type>2</type>
+      <startDays>4</startDays>
+      <startTimes>54000</startTimes>
+      <endTimes>57000</endTimes>
+      <map>sky-realm</map>
+    </events>
+    <events>
+      <eventName>Sky Realm Group 11-15</eventName>
+      <type>2</type>
+      <startDays>4</startDays>
+      <startTimes>72000</startTimes>
+      <endTimes>75000</endTimes>
+      <map>sky-realm</map>
+    </events>
+  </root>
+  <root>
+    <name>Aura Kingdom Quiz</name>
+    <events>
+      <eventName>Aura Kingdom Quiz</eventName>
+      <type>2</type>
+      <startDays>0</startDays>
+      <startDays>1</startDays>
+      <startDays>2</startDays>
+      <startDays>3</startDays>
+      <startDays>4</startDays>
+      <startDays>5</startDays>
+      <startDays>6</startDays>
+      <startTimes>29700</startTimes>
+      <startTimes>51300</startTimes>
+      <startTimes>70500</startTimes>
+      <startTimes>81600</startTimes>
+      <endTimes>30600</endTimes>
+      <endTimes>52200</endTimes>
+      <endTimes>71400</endTimes>
+      <endTimes>82500</endTimes>
+      <map>aura-kingdom-quiz</map>
+    </events>
+  </root>
+  <root>
+    <name>Card Rangers</name>
+    <events>
+      <eventName>All Rangers</eventName>
+      <eventUrl />
+      <zoneName />
+      <zoneUrl />
+      <coords />
+      <type>4</type>
+      <startDays>0</startDays>
+      <startDays>6</startDays>
+      <startTimes>61200</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>68400</endTimes>
+      <endTimes>82800</endTimes>
+      <map>card-rangers</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Card Rangers&amp;gt; Red Ranger</eventName>
+      <eventUrl>11539-card-rangers-red-ranger</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords>(X: 374, Y: 735)</coords>
+      <type>4</type>
+      <startDays>1</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>43200</startTimes>
+      <startTimes>61200</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>10800</endTimes>
+      <endTimes>50400</endTimes>
+      <endTimes>68400</endTimes>
+      <endTimes>82800</endTimes>
+      <map>card-rangers</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Card Rangers&amp;gt; Black Ranger</eventName>
+      <eventUrl>11540-card-rangers-black-ranger</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords>(X: 384, Y: 735)</coords>
+      <type>4</type>
+      <startDays>2</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>43200</startTimes>
+      <startTimes>61200</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>10800</endTimes>
+      <endTimes>50400</endTimes>
+      <endTimes>68400</endTimes>
+      <endTimes>82800</endTimes>
+      <map>card-rangers</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Card Rangers&amp;gt; Blue Ranger</eventName>
+      <eventUrl>11541-card-rangers-blue-ranger</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords>(X: 382, Y: 735)</coords>
+      <type>4</type>
+      <startDays>3</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>43200</startTimes>
+      <startTimes>61200</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>10800</endTimes>
+      <endTimes>50400</endTimes>
+      <endTimes>68400</endTimes>
+      <endTimes>82800</endTimes>
+      <map>card-rangers</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Card Rangers&amp;gt; Pink Ranger</eventName>
+      <eventUrl>11543-card-rangers-pink-ranger</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords>(X: 379, Y: 735)</coords>
+      <type>4</type>
+      <startDays>4</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>43200</startTimes>
+      <startTimes>61200</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>10800</endTimes>
+      <endTimes>50400</endTimes>
+      <endTimes>68400</endTimes>
+      <endTimes>82800</endTimes>
+      <map>card-rangers</map>
+    </events>
+    <events>
+      <eventName>&amp;lt;Card Rangers&amp;gt; Yellow Ranger</eventName>
+      <eventUrl>11542-card-rangers-yellow-ranger</eventUrl>
+      <zoneName />
+      <zoneUrl />
+      <coords>(X: 377, Y: 735)</coords>
+      <type>4</type>
+      <startDays>5</startDays>
+      <startTimes>3600</startTimes>
+      <startTimes>43200</startTimes>
+      <startTimes>61200</startTimes>
+      <startTimes>75600</startTimes>
+      <endTimes>10800</endTimes>
+      <endTimes>50400</endTimes>
+      <endTimes>68400</endTimes>
+      <endTimes>82800</endTimes>
+      <map>card-rangers</map>
+    </events>
+  </root>
+</root>

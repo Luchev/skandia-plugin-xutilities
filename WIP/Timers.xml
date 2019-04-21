@@ -1,0 +1,1764 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGameEventSerializeable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameEventSerializeable>
+    <Name>All Fish Kings</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>46800</int>
+      <int>61200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>48600</int>
+      <int>63000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Eternal Wisdom Elder</Name>
+    <Bait>13680</Bait>
+    <Map>16</Map>
+    <Location2D X="609" Y="666" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Monday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>32400</int>
+      <int>61200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>5400</int>
+      <int>34200</int>
+      <int>63000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Khaz Walid</Name>
+    <Bait>15499</Bait>
+    <Map>651</Map>
+    <Location2D X="785" Y="403" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Monday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>32400</int>
+      <int>61200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>5400</int>
+      <int>34200</int>
+      <int>63000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Fragrant Monstrosity</Name>
+    <Bait>14450</Bait>
+    <Map>633</Map>
+    <Location2D X="83" Y="423" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Monday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>18000</int>
+      <int>46800</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>19800</int>
+      <int>48600</int>
+      <int>77400</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Lake Lurker</Name>
+    <Bait>14454</Bait>
+    <Map>631</Map>
+    <Location2D X="195" Y="206" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Monday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>18000</int>
+      <int>46800</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>19800</int>
+      <int>48600</int>
+      <int>77400</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Ocean Tyrant</Name>
+    <Bait>13024</Bait>
+    <Map>2</Map>
+    <Location2D X="825" Y="343" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Tuesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>32400</int>
+      <int>61200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>5400</int>
+      <int>34200</int>
+      <int>63000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Submerged Starlight</Name>
+    <Bait>15491</Bait>
+    <Map>647</Map>
+    <Location2D X="630" Y="645" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Tuesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>32400</int>
+      <int>61200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>5400</int>
+      <int>34200</int>
+      <int>63000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Hot-Tempered Overlord</Name>
+    <Bait>13029</Bait>
+    <Map>7</Map>
+    <Location2D X="158" Y="531" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Tuesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>18000</int>
+      <int>46800</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>19800</int>
+      <int>48600</int>
+      <int>77400</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Shadow of the Deep</Name>
+    <Bait>13025</Bait>
+    <Map>3</Map>
+    <Location2D X="773" Y="136" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Wednesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>32400</int>
+      <int>61200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>5400</int>
+      <int>34200</int>
+      <int>63000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Defender of the Marsh</Name>
+    <Bait>13030</Bait>
+    <Map>615</Map>
+    <Location2D X="765" Y="500" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Wednesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>18000</int>
+      <int>46800</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>19800</int>
+      <int>48600</int>
+      <int>77400</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Unidentified Foreign Creature</Name>
+    <Bait>14458</Bait>
+    <Map>642</Map>
+    <Location2D X="112" Y="582" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Wednesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>18000</int>
+      <int>46800</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>19800</int>
+      <int>48600</int>
+      <int>77400</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Golden Blossom</Name>
+    <Bait>13028</Bait>
+    <Map>614</Map>
+    <Location2D X="461" Y="556" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Thursday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>32400</int>
+      <int>61200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>5400</int>
+      <int>34200</int>
+      <int>63000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Shadow Lancer</Name>
+    <Bait>15487</Bait>
+    <Map>646</Map>
+    <Location2D X="756" Y="333" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Thursday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>32400</int>
+      <int>61200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>5400</int>
+      <int>34200</int>
+      <int>63000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Rainbow Caller</Name>
+    <Bait>13031</Bait>
+    <Map>9</Map>
+    <Location2D X="467" Y="134" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Thursday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>18000</int>
+      <int>46800</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>19800</int>
+      <int>48600</int>
+      <int>77400</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Eternal Epicurean</Name>
+    <Bait>17286</Bait>
+    <Map>25</Map>
+    <Location2D X="177" Y="764" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Thursday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>18000</int>
+      <int>46800</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>19800</int>
+      <int>48600</int>
+      <int>77400</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Ancient Witness</Name>
+    <Bait>13027</Bait>
+    <Map>5</Map>
+    <Location2D X="152" Y="705" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Friday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>32400</int>
+      <int>61200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>5400</int>
+      <int>34200</int>
+      <int>63000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Silent Hunter</Name>
+    <Bait>17290</Bait>
+    <Map>26</Map>
+    <Location2D X="640" Y="221" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Friday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>32400</int>
+      <int>61200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>5400</int>
+      <int>34200</int>
+      <int>63000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Deep Waterfall Ghost</Name>
+    <Bait>13032</Bait>
+    <Map>10</Map>
+    <Location2D X="129" Y="651" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Friday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>18000</int>
+      <int>46800</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>19800</int>
+      <int>48600</int>
+      <int>77400</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Eternal Glacier</Name>
+    <Bait>14462</Bait>
+    <Map>641</Map>
+    <Location2D X="328" Y="560" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Friday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>18000</int>
+      <int>46800</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>19800</int>
+      <int>48600</int>
+      <int>77400</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Dark Crystal</Name>
+    <Bait>13026</Bait>
+    <Map>452</Map>
+    <Location2D X="740" Y="595" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>32400</int>
+      <int>61200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>5400</int>
+      <int>34200</int>
+      <int>63000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Crimson Aquadevil</Name>
+    <Bait>15495</Bait>
+    <Map>650</Map>
+    <Location2D X="124" Y="175" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>32400</int>
+      <int>61200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>5400</int>
+      <int>34200</int>
+      <int>63000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Sand-Spitting Hermit</Name>
+    <Bait>13033</Bait>
+    <Map>11</Map>
+    <Location2D X="136" Y="790" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>FishKing</Type>
+    <Days>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>18000</int>
+      <int>46800</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>19800</int>
+      <int>48600</int>
+      <int>77400</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Hermit Mordecai</Name>
+    <Bait>0</Bait>
+    <Map>614</Map>
+    <Location2D X="522" Y="793" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>WorldBoss</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>0</int>
+      <int>14400</int>
+      <int>28800</int>
+      <int>43200</int>
+      <int>57600</int>
+      <int>72000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>600</int>
+      <int>15000</int>
+      <int>29400</int>
+      <int>43800</int>
+      <int>58200</int>
+      <int>72600</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Pirate Leader Mac</Name>
+    <Bait>0</Bait>
+    <Map>3</Map>
+    <Location2D X="461" Y="648" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>WorldBoss</Type>
+    <Days>
+      <DayOfWeek>Thursday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>0</int>
+      <int>14400</int>
+      <int>28800</int>
+      <int>43200</int>
+      <int>57600</int>
+      <int>72000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>600</int>
+      <int>15000</int>
+      <int>29400</int>
+      <int>43800</int>
+      <int>58200</int>
+      <int>72600</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Jungle Panther Banksy</Name>
+    <Bait>0</Bait>
+    <Map>615</Map>
+    <Location2D X="674" Y="628" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>WorldBoss</Type>
+    <Days>
+      <DayOfWeek>Friday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>0</int>
+      <int>14400</int>
+      <int>28800</int>
+      <int>43200</int>
+      <int>57600</int>
+      <int>72000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>600</int>
+      <int>15000</int>
+      <int>29400</int>
+      <int>43800</int>
+      <int>58200</int>
+      <int>72600</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Secluded Hunter Daphne</Name>
+    <Bait>0</Bait>
+    <Map>7</Map>
+    <Location2D X="466" Y="308" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>WorldBoss</Type>
+    <Days>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>0</int>
+      <int>14400</int>
+      <int>28800</int>
+      <int>43200</int>
+      <int>57600</int>
+      <int>72000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>600</int>
+      <int>15000</int>
+      <int>29400</int>
+      <int>43800</int>
+      <int>58200</int>
+      <int>72600</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Colossal Cult Leader Abenthy</Name>
+    <Bait>0</Bait>
+    <Map>651</Map>
+    <Location2D X="148" Y="589" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>WorldBoss</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>7200</int>
+      <int>21600</int>
+      <int>36000</int>
+      <int>50400</int>
+      <int>64800</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>7800</int>
+      <int>22200</int>
+      <int>36600</int>
+      <int>51000</int>
+      <int>65400</int>
+      <int>79800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Enlarged Lavalord Elbiolo</Name>
+    <Bait>0</Bait>
+    <Map>646</Map>
+    <Location2D X="652" Y="138" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>WorldBoss</Type>
+    <Days>
+      <DayOfWeek>Wednesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>7200</int>
+      <int>21600</int>
+      <int>36000</int>
+      <int>50400</int>
+      <int>64800</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>7800</int>
+      <int>22200</int>
+      <int>36600</int>
+      <int>51000</int>
+      <int>65400</int>
+      <int>79800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Dominating Duskfall Dancer Mechium</Name>
+    <Bait>0</Bait>
+    <Map>647</Map>
+    <Location2D X="544" Y="657" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>WorldBoss</Type>
+    <Days>
+      <DayOfWeek>Friday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>7200</int>
+      <int>21600</int>
+      <int>36000</int>
+      <int>50400</int>
+      <int>64800</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>7800</int>
+      <int>22200</int>
+      <int>36600</int>
+      <int>51000</int>
+      <int>65400</int>
+      <int>79800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Enormous Eclipse Rabbit King Kalishia</Name>
+    <Bait>0</Bait>
+    <Map>650</Map>
+    <Location2D X="230" Y="301" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>WorldBoss</Type>
+    <Days>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>7200</int>
+      <int>21600</int>
+      <int>36000</int>
+      <int>50400</int>
+      <int>64800</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>7800</int>
+      <int>22200</int>
+      <int>36600</int>
+      <int>51000</int>
+      <int>65400</int>
+      <int>79800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Stormbringer Vayu</Name>
+    <Bait>0</Bait>
+    <Map>500</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>GuildBoss</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>54000</int>
+      <int>72000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>4200</int>
+      <int>54600</int>
+      <int>72600</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Duke of Darkness Eligos</Name>
+    <Bait>0</Bait>
+    <Map>500</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>GuildBoss</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>43200</int>
+      <int>61200</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>43800</int>
+      <int>61800</int>
+      <int>79800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Nine Tailed Vixen Kotonoha</Name>
+    <Bait>0</Bait>
+    <Map>500</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>GuildBoss</Type>
+    <Days>
+      <DayOfWeek>Monday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>43200</int>
+      <int>61200</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>43800</int>
+      <int>61800</int>
+      <int>79800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Miasmic Serpent Quelkulan</Name>
+    <Bait>0</Bait>
+    <Map>500</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>GuildBoss</Type>
+    <Days>
+      <DayOfWeek>Tuesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>54000</int>
+      <int>72000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>4200</int>
+      <int>54600</int>
+      <int>72600</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Knight of the Sun Aelius</Name>
+    <Bait>0</Bait>
+    <Map>500</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>GuildBoss</Type>
+    <Days>
+      <DayOfWeek>Tuesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>43200</int>
+      <int>61200</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>43800</int>
+      <int>61800</int>
+      <int>79800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Empress of Torment Bel-Chandra</Name>
+    <Bait>0</Bait>
+    <Map>500</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>GuildBoss</Type>
+    <Days>
+      <DayOfWeek>Wednesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>43200</int>
+      <int>61200</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>43800</int>
+      <int>61800</int>
+      <int>79800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Emerald Tempest Yarnaros</Name>
+    <Bait>0</Bait>
+    <Map>500</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>GuildBoss</Type>
+    <Days>
+      <DayOfWeek>Thursday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>54000</int>
+      <int>72000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>4200</int>
+      <int>54600</int>
+      <int>72600</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Iron Titan Gigas</Name>
+    <Bait>0</Bait>
+    <Map>500</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>GuildBoss</Type>
+    <Days>
+      <DayOfWeek>Thursday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>43200</int>
+      <int>61200</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>43800</int>
+      <int>61800</int>
+      <int>79800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Trampling Thunder Bahadur</Name>
+    <Bait>0</Bait>
+    <Map>500</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>GuildBoss</Type>
+    <Days>
+      <DayOfWeek>Friday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>54000</int>
+      <int>72000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>4200</int>
+      <int>54600</int>
+      <int>72600</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Champion of the Slain Sigrun</Name>
+    <Bait>0</Bait>
+    <Map>500</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>GuildBoss</Type>
+    <Days>
+      <DayOfWeek>Friday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>43200</int>
+      <int>61200</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>43800</int>
+      <int>61800</int>
+      <int>79800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Feline Emperor Tigerius Caesar</Name>
+    <Bait>0</Bait>
+    <Map>500</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>GuildBoss</Type>
+    <Days>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>54000</int>
+      <int>72000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>4200</int>
+      <int>54600</int>
+      <int>72600</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Heavenly Defender Uzuriel</Name>
+    <Bait>0</Bait>
+    <Map>500</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>GuildBoss</Type>
+    <Days>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>43200</int>
+      <int>61200</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>43800</int>
+      <int>61800</int>
+      <int>79800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>The Glorious Frost Crown</Name>
+    <Bait>0</Bait>
+    <Map>404</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Battlefield</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+      <DayOfWeek>Thursday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>42000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>5400</int>
+      <int>43800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Tanuki Turmoil</Name>
+    <Bait>0</Bait>
+    <Map>405</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Battlefield</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+      <DayOfWeek>Thursday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>10800</int>
+      <int>32400</int>
+      <int>46800</int>
+      <int>77400</int>
+    </StartTimes>
+    <EndTimes>
+      <int>12600</int>
+      <int>34200</int>
+      <int>48600</int>
+      <int>79200</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Excelsior Arena (5 v. 5)</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Battlefield</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+      <DayOfWeek>Thursday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>18000</int>
+      <int>25200</int>
+      <int>37200</int>
+      <int>66000</int>
+      <int>84000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>19800</int>
+      <int>27000</int>
+      <int>39000</int>
+      <int>67800</int>
+      <int>85800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Excelsior Arena (5 v. 5)</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Battlefield</Type>
+    <Days>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>53400</int>
+    </StartTimes>
+    <EndTimes>
+      <int>55200</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Excelsior Arena (5 v. 5)</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Battlefield</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>55200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>57000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Excelsior Arena (5 v. 5)</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Battlefield</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Thursday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>73200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>75000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Valley of Glorious Battle</Name>
+    <Bait>0</Bait>
+    <Map>406</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Battlefield</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+      <DayOfWeek>Thursday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>63000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>63600</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Centurion Battlefield</Name>
+    <Bait>0</Bait>
+    <Map>401</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Battlefield</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+      <DayOfWeek>Thursday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>58800</int>
+    </StartTimes>
+    <EndTimes>
+      <int>60600</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Centurion Battlefield</Name>
+    <Bait>0</Bait>
+    <Map>401</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Battlefield</Type>
+    <Days>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>73200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>75000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>24 Hour Dungeon</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>DungeonReset</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+      <DayOfWeek>Thursday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>21600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>21720</int>
+    </EndTimes>
+    <Tooltip>List of affected dungeons:Duelists' TempleGaia's Sanctuary (5 Players)Holy Land of Gaia (Solo)Hall of PhilaeGaia's Sanctuary - Trial (Party)Gaia's Sanctuary - Trial (Solo)Vault of Eternity</Tooltip>
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>8 Hour Dungeon</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>DungeonReset</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+      <DayOfWeek>Thursday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>21600</int>
+      <int>50400</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>21720</int>
+      <int>50520</int>
+      <int>79320</int>
+    </EndTimes>
+    <Tooltip>List of affected dungeons:Infernal AbyssWhirlpool AbyssAvarice Abyss</Tooltip>
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>6 Hour Dungeon</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>DungeonReset</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+      <DayOfWeek>Thursday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>0</int>
+      <int>21600</int>
+      <int>43200</int>
+      <int>64800</int>
+    </StartTimes>
+    <EndTimes>
+      <int>120</int>
+      <int>21720</int>
+      <int>43320</int>
+      <int>64920</int>
+    </EndTimes>
+    <Tooltip>List of affected dungeons:Temple of the Eidolons (Solo)Lament of The Thunder-Dragon KingLanding of the Sky Dragon KingSiege of the Aqua-Dragon QueenPyroclastic PurgatoryTempestuous TempleThunder Temple of the Underworld BaronessFrozen Ruins of Zahr-Kazaal</Tooltip>
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>3 Hour Dungeon</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>DungeonReset</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+      <DayOfWeek>Thursday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>0</int>
+      <int>10800</int>
+      <int>21600</int>
+      <int>32400</int>
+      <int>43200</int>
+      <int>54000</int>
+      <int>64800</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>120</int>
+      <int>10920</int>
+      <int>21720</int>
+      <int>32520</int>
+      <int>43320</int>
+      <int>54120</int>
+      <int>64920</int>
+      <int>75720</int>
+    </EndTimes>
+    <Tooltip>List of affected dungeons:All Dungeons (Solo Challenge)Otherworld: Field (All)Otherworld: Dungeon (Hell)</Tooltip>
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>2 Hour Dungeon</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>DungeonReset</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+      <DayOfWeek>Thursday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>0</int>
+      <int>7200</int>
+      <int>14400</int>
+      <int>21600</int>
+      <int>28800</int>
+      <int>36000</int>
+      <int>43200</int>
+      <int>50400</int>
+      <int>57600</int>
+      <int>64800</int>
+      <int>72000</int>
+      <int>79200</int>
+    </StartTimes>
+    <EndTimes>
+      <int>120</int>
+      <int>7320</int>
+      <int>14520</int>
+      <int>21720</int>
+      <int>28920</int>
+      <int>36120</int>
+      <int>43320</int>
+      <int>50520</int>
+      <int>57720</int>
+      <int>64920</int>
+      <int>72120</int>
+      <int>79320</int>
+    </EndTimes>
+    <Tooltip>List of affected dungeons:Main Dungeon (Solo/Party/Hell)Otherworld: Dungeon (Solo/Party)</Tooltip>
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Sky Tower Group 1-30</Name>
+    <Bait>0</Bait>
+    <Map>700</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Raid</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>36000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>43200</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Sky Tower Group 31-60</Name>
+    <Bait>0</Bait>
+    <Map>700</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Raid</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>54000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>61200</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Sky Tower Group 61-90</Name>
+    <Bait>0</Bait>
+    <Map>700</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Raid</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>72000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>79200</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Sky Tower Elite Group 1-30</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Raid</Type>
+    <Days>
+      <DayOfWeek>Friday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>36000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>43200</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Sky Tower Elite Group 31-60</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Raid</Type>
+    <Days>
+      <DayOfWeek>Friday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>54000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>61200</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Sky Tower Elite Group 61-90</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Raid</Type>
+    <Days>
+      <DayOfWeek>Friday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>72000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>79200</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Sky Realm Group 1-5</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Raid</Type>
+    <Days>
+      <DayOfWeek>Thursday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>36000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>39000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Sky Realm Group 6-10</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Raid</Type>
+    <Days>
+      <DayOfWeek>Thursday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>54000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>57000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Sky Realm Group 11-15</Name>
+    <Bait>0</Bait>
+    <Map>0</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Raid</Type>
+    <Days>
+      <DayOfWeek>Thursday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>72000</int>
+    </StartTimes>
+    <EndTimes>
+      <int>75000</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Aura Kingdom Quiz</Name>
+    <Bait>0</Bait>
+    <Map>403</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>Quiz</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Monday</DayOfWeek>
+      <DayOfWeek>Tuesday</DayOfWeek>
+      <DayOfWeek>Wednesday</DayOfWeek>
+      <DayOfWeek>Thursday</DayOfWeek>
+      <DayOfWeek>Friday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>29700</int>
+      <int>51300</int>
+      <int>70500</int>
+      <int>81600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>30600</int>
+      <int>52200</int>
+      <int>71400</int>
+      <int>82500</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>All Rangers</Name>
+    <Bait>0</Bait>
+    <Map>9</Map>
+    <Location2D X="0" Y="0" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>CardRanger</Type>
+    <Days>
+      <DayOfWeek>Sunday</DayOfWeek>
+      <DayOfWeek>Saturday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>61200</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>68400</int>
+      <int>82800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Card Rangers Red Ranger</Name>
+    <Bait>0</Bait>
+    <Map>9</Map>
+    <Location2D X="374" Y="735" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>CardRanger</Type>
+    <Days>
+      <DayOfWeek>Monday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>43200</int>
+      <int>61200</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>10800</int>
+      <int>50400</int>
+      <int>68400</int>
+      <int>82800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Card Rangers Black Ranger</Name>
+    <Bait>0</Bait>
+    <Map>9</Map>
+    <Location2D X="384" Y="735" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>CardRanger</Type>
+    <Days>
+      <DayOfWeek>Tuesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>43200</int>
+      <int>61200</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>10800</int>
+      <int>50400</int>
+      <int>68400</int>
+      <int>82800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Card Rangers Blue Ranger</Name>
+    <Bait>0</Bait>
+    <Map>9</Map>
+    <Location2D X="382" Y="735" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>CardRanger</Type>
+    <Days>
+      <DayOfWeek>Wednesday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>43200</int>
+      <int>61200</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>10800</int>
+      <int>50400</int>
+      <int>68400</int>
+      <int>82800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Card Rangers Pink Ranger</Name>
+    <Bait>0</Bait>
+    <Map>9</Map>
+    <Location2D X="379" Y="735" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>CardRanger</Type>
+    <Days>
+      <DayOfWeek>Thursday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>43200</int>
+      <int>61200</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>10800</int>
+      <int>50400</int>
+      <int>68400</int>
+      <int>82800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+  <GameEventSerializeable>
+    <Name>Card Rangers Yellow Ranger</Name>
+    <Bait>0</Bait>
+    <Map>9</Map>
+    <Location2D X="377" Y="735" />
+    <Location3D X="0" Y="0" Z="0" />
+    <Type>CardRanger</Type>
+    <Days>
+      <DayOfWeek>Friday</DayOfWeek>
+    </Days>
+    <StartTimes>
+      <int>3600</int>
+      <int>43200</int>
+      <int>61200</int>
+      <int>75600</int>
+    </StartTimes>
+    <EndTimes>
+      <int>10800</int>
+      <int>50400</int>
+      <int>68400</int>
+      <int>82800</int>
+    </EndTimes>
+    <Tooltip />
+    <Note />
+  </GameEventSerializeable>
+</ArrayOfGameEventSerializeable>
